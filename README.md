@@ -1,4 +1,4 @@
-## Data Cleaning & Exploration- using SQL
+## Data Cleaning & Exploration - using SQL
 
 ### Hypothetical Paper Company's Sales Data - Cleaning &amp; Exploration
 
